@@ -87,8 +87,8 @@ Add your final results here after running the notebook:
 
 | Dataset       | Best Filter Count | Test Accuracy |
 | ------------- | ----------------: | ------------: |
-| MNIST         |               16  |       99.02 % |
-| Fashion-MNIST |               16  |       90.01 % |
+| MNIST         |               32  |       99.00 % |
+| Fashion-MNIST |               32  |       91.39% |
 
 ## Project Structure
 CNN-based-image-classification/
